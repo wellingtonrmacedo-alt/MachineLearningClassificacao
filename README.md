@@ -1,2 +1,2 @@
 # MachineLearningClassificacao/Regressão
-Trabalhando com Classificação que pertence ao machine learning.
+Trabalhando com Classificação e Regressão que pertence ao machine learning.
